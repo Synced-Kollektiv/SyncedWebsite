@@ -244,7 +244,7 @@ body {
     transition: transform 0.3s;
 }
 
-.artist-card img, .event-card img {
+.artist-card img, .event-card img, .event-card video {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 1rem;
